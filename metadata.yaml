@@ -19,6 +19,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5182
     wikipedia: http://en.wikipedia.org/wiki/Edmond_François_Valentin_About
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18092#Germaine
 gutenberg_bookshelf: FR Littérature
 gutenberg_issued: '2006-04-01'
 gutenberg_type: Text
